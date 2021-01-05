@@ -9,7 +9,7 @@
   "author": "Ryan",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "cheerio": "^1.0.0-rc.3",
     "puppeteer": "^1.20.0",
     "website-scraper": "^4.2.0"
